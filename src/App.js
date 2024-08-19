@@ -9,7 +9,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p> */}
 
-          Welcome to Nanosoft Tech
+          Welcome to Nanosoft Private Tech
       </header>
     </div>
   );
