@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header App-link">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        {/* <p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p> */}
+        </p>
 
-          Welcome to DemoApp
+          {/* Welcome to DemoApp */}
       </header>
     </div>
   );
